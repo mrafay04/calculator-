@@ -21,11 +21,11 @@ void tangent();
 void arcsine();
 void arccosine();
 void arctangent();
-//LOGARITHMIC OPERATIONS
+//LOGARITHMIC FUNCTIONS
 void logarithm();
 void natural_logarithm();
 void custombase_logarithm();
-//ADDITIONAL OPERATIONS
+//ADDITIONAL FUNCTIONS
 void modulus();
 void percentage();
 
