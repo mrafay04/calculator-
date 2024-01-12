@@ -34,8 +34,8 @@ Welcome to the Scientific Calculator! This is a command-line based calculator th
 - **Additional Operations:**
   - Modulus
   - Percentage
-  - Greatest Common Divisor (GCD)
-  - Least Common Multiple (LCM)
+ 
+  
 
 # Usage
 
